@@ -1,2 +1,3 @@
-# SafePulse-app
-SafePulse SOS App project files
+# safepulse
+
+A new Flutter project.
